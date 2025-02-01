@@ -18,9 +18,11 @@ A simple raycasting simulation using SDL2. Rays are emitted from a light source 
 **Install SDL2**:
    ```bash
    sudo apt install libsdl2-dev
+   ```
 
-## Compile
+## Compile:
+   
     gcc -o raytracer raytracer.c -IC:/SDL2/include -LC:/SDL2/lib -lSDL2main -lSDL2
     
-## Run
+## Run:
     ./raytracer
