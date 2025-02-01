@@ -15,7 +15,7 @@ A simple raycasting simulation using SDL2. Rays are emitted from a light source 
 
 ## Compile and Run
 
-1. **Install SDL2**:
+**Install SDL2**:
    ```bash
    sudo apt install libsdl2-dev
 
